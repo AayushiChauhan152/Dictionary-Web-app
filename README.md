@@ -13,10 +13,6 @@ This is a simple dictionary web application built using Django. The application 
 - Python 3.x installed on your system
 - pip package manager
 - Django framework
-
-### Installation
-
-1. Clone the repository
    
 ### Install dependencies:
 pip install -r requirements.txt
